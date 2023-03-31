@@ -20,5 +20,14 @@ indent_size = tab
 tab_width = 4
 
 
-# common file setting
-# ex.) textlintrc, ...
+### markdown
+[**.md]
+indent_style = space
+indent_size = 2
+tab_width = 2
+
+
+## config file (jsopn)
+[*.{json,tm;}]
+indent_style = tab
+tab_width = 4

@@ -1,0 +1,14 @@
+{
+	"name": "issue-writer",
+	"version": "0.1.0",
+	"description": "GitHub ISSUE/PR wrting environ with textlint",
+	"scripts": {},
+	"keywords": [
+		"English",
+		"Writing",
+		"GitHub"
+	],
+	"author": "Furukawa, Atsushi <atsushifx@aglabo.com>",
+	"license": "MIT",
+	"dependencies": {}
+}
