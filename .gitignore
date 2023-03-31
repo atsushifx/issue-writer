@@ -1,0 +1,31 @@
+## ignore file for git
+#
+# @(#) : git ignore file for code of contests
+#
+# @author	Furukawa, Atsushi <atsushifx@aglabo.com>
+# @version	1.0.0
+# @date		2022-07-25
+#
+# @description
+#
+#<<
+
+##  General settings
+
+# Log files (if you are creating logs in debug mode, uncomment this)
+*.log
+
+
+
+
+## Visual Studio Code settings
+#
+### visualstudiocode
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
