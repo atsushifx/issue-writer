@@ -12,9 +12,13 @@
 
 ##  General settings
 
+## Issu Writer specific settings
+/issues/*
+!/issues/*.md
+
+
+
 ## Visual Studio Code settings
-#
-### visualstudiocode
 
 .vscode/*
 !.vscode/settings.json
